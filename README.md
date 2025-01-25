@@ -23,7 +23,7 @@ A movie dashboard assignment built with React using Vite and tailwind css.
 
 ## Run the Project
 
-To start the development server, run the following command:
+   To start the development server, run the following command:
     ```bash
    npm run dev
 
@@ -31,7 +31,7 @@ Then project will be accessible at http://localhost:5173 by default.
 
 ## Running Tests
 
-To run the tests for the project, use the following command:
+   To run the tests for the project, use the following command:
     ```bash
    npm test
 
