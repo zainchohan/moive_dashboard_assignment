@@ -31,7 +31,7 @@ Then project will be accessible at http://localhost:5173 by default.
 
 ## Running Tests
 
-1. To run the tests for the project, use the following command:
+To run the tests for the project, use the following command:
     ```bash
    npm test
 
