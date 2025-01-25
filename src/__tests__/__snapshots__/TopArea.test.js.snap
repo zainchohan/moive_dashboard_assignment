@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopArea Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="mb-6 bg-[#F7F8FA]"
+  >
+    <div
+      class="content-area-cards grid grid-cols-1 md:grid-cols-3 gap-4"
+    >
+      <div
+        class="flex flex-row md:flex-row justify-between items-center p-4 rounded-lg shadow-sm bg-white hover:shadow-md transition-shadow duration-300"
+      >
+        <div
+          class="flex flex-col items-center md:items-start md:w-1/2 mb-4 md:mb-0"
+        >
+          <h2
+            class="text-lg font-medium text-gray-500 mb-2"
+          >
+            Total Movies
+          </h2>
+          <p
+            class="text-4xl font-semibold text-gray-800"
+          >
+            14
+          </p>
+        </div>
+        <div>
+          <svg
+            data-testid="pie-chart"
+          />
+        </div>
+      </div>
+      <div
+        class="flex flex-row md:flex-row justify-between items-center p-4 rounded-lg shadow-sm bg-white hover:shadow-md transition-shadow duration-300"
+      >
+        <div
+          class="flex flex-col items-center md:items-start md:w-1/2 mb-4 md:mb-0"
+        >
+          <h2
+            class="text-lg font-medium text-gray-500 mb-2"
+          >
+            Total Cast Members
+          </h2>
+          <p
+            class="text-4xl font-semibold text-gray-800"
+          >
+            25
+          </p>
+        </div>
+        <div>
+          <svg
+            data-testid="pie-chart"
+          />
+        </div>
+      </div>
+      <div
+        class="flex flex-row md:flex-row justify-between items-center p-4 rounded-lg shadow-sm bg-white hover:shadow-md transition-shadow duration-300"
+      >
+        <div
+          class="flex flex-col items-center md:items-start md:w-1/2 mb-4 md:mb-0"
+        >
+          <h2
+            class="text-lg font-medium text-gray-500 mb-2"
+          >
+            Total Countries
+          </h2>
+          <p
+            class="text-4xl font-semibold text-gray-800"
+          >
+            5
+          </p>
+        </div>
+        <div>
+          <svg
+            data-testid="pie-chart"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
