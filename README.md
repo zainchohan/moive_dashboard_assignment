@@ -23,7 +23,7 @@ A React-based movie dashboard assignment, built with Vite and Tailwind CSS, inco
 
 2. Navigate into the project folder:
     ```bash
-   cd movie_dashboard
+   cd moive_dashboard_assignment
 
 3. Navigate into the project folder:
     ```bash
@@ -38,7 +38,7 @@ To start the development server, run the following command:
 
 Then project will be accessible at http://localhost:5173 by default.
 
-## Running Tests
+## Run the Tests
 
 1. To run the tests for the project, use the following command:
     ```bash
