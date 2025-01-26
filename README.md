@@ -1,7 +1,15 @@
 # Movie Dashboard
 
 ## Description
-A movie dashboard assignment built with React using Vite and tailwind css.
+A React-based movie dashboard assignment, built with Vite and Tailwind CSS, incorporating the following features:  
+
+- **Oscar Statistics Overview:** Analysis of nominations and wins by year.  
+- **Top Performers:** Leaderboard showcasing top movies and actors.  
+- **Search and Filter Panel:** Allows filtering movies based on various attributes.  
+- **Country and Language Insights:** Visualized using a pie chart.  
+- **Movie Details Card:** A dynamic card displaying detailed movie information, triggered by the detail button in the table view.  
+- **Additional Visualizations:** Various data-driven insights presented through interactive cards.  
+- **Test Cases with Jest:** Unit tests performed on the Movie Details Card to validate data accuracy.
 
 ## Requirements
 - Node.js (LTS version)
@@ -11,7 +19,7 @@ A movie dashboard assignment built with React using Vite and tailwind css.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zainchohan/movie_dashboard.git
+   git clone https://github.com/zainchohan/moive_dashboard_assignment.git
 
 2. Navigate into the project folder:
     ```bash
