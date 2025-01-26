@@ -4,7 +4,7 @@
 A movie dashboard assignment built with React using Vite and tailwind css.
 
 ## Requirements
-- Node.js (LTS version recommended)
+- Node.js (LTS version)
 - npm (comes with Node.js)
 
 ## Installation
@@ -24,6 +24,7 @@ A movie dashboard assignment built with React using Vite and tailwind css.
 ## Run the Project
 
 To start the development server, run the following command:
+1. Navigate into the project folder:
     ```bash
    npm run dev
 
@@ -31,7 +32,7 @@ Then project will be accessible at http://localhost:5173 by default.
 
 ## Running Tests
 
-To run the tests for the project, use the following command:
+1. To run the tests for the project, use the following command:
     ```bash
    npm test
 
