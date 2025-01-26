@@ -25,14 +25,13 @@ A React-based movie dashboard assignment, built with Vite and Tailwind CSS, inco
     ```bash
    cd moive_dashboard_assignment
 
-3. Navigate into the project folder:
+3. Install the project dependencies:
     ```bash
    npm install
 
 ## Run the Project
 
-To start the development server, run the following command:
-1. Navigate into the project folder:
+1. To start the development server, run the following command:
     ```bash
    npm run dev
 
